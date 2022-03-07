@@ -11,6 +11,8 @@ Repositório para mostrar as questões do DESAFIO DE PROGRAMAÇÃO 2 da ACADEMIA
 
 1. Copie e cole ou baixe o código na sua máquina.
 2. Abrir com Visual Studio Code.
+3. Baixar Java JDK 17 - Windows x64 bin
+4. Baixar a Extensão VSCode - Debugger for Java
 
 
 <h2 id="question01">
