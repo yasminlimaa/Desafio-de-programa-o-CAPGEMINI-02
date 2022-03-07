@@ -17,21 +17,21 @@ Repositório para mostrar as questões do DESAFIO DE PROGRAMAÇÃO 2 da ACADEMIA
   Mediana - Questão 1
 </h2>
 
- * [Resolução Questão 1](https://github.com/yasminnascimi/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/Questao1.java)
+ * [Resolução Questão 1](https://github.com/yasminlimaa/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/src/Questao%201/MedianaQuestao1.java)
 
 
 <h2 id="question02">
   Pares de Vetores - Questão 2
 </h2>
 
-* [Resolução Questão 2](https://github.com/yasminnascimi/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/Questao2.java)
+* [Resolução Questão 2](https://github.com/yasminlimaa/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/src/Questao%202/VetoresQuestao2.java)
 	
 
 <h2 id="question03">
   Texto Criptografado - Questão 3
 </h2>
 	
-* [Resolução Questão 3](https://github.com/yasminnascimi/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/Questao3.java)
+* [Resolução Questão 3](https://github.com/yasminlimaa/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/src/Questao%203/MensagemQuestao3.java)
 
 <h1 id="tecnologias-dependencias">
 	Tecnologias Utilizadas
